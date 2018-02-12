@@ -72,7 +72,18 @@ div.container1 {
     border: 2px solid black;
     margin-top: 20px;
     background-color: #ffffff;
+    padding: 5px;   
+    float: left
+}
+
+div.container2 {
+    width: 270px; 
+    height: 200;          
+    border: 2px solid black;
+    margin-top: 20px;
+    background-color: #ffffff;
     padding: 5px;
+    float: right;
 }
 
 div.header {
