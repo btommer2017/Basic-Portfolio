@@ -137,13 +137,33 @@ div.port1{
 
 div.port2{
     margin-left: 300px;
-    margin-top:0;
+    margin-top:00;
     width: 250px;
     height: 180;
     position: absolute;
     text-align: center;
     color: white;
-  float: right;
+}
+
+    div.port3{
+        margin-left: 10px;
+        margin-top: 200;
+        width: 250px;
+        height: 180;
+        position: absolute;
+        text-align: center;
+        color: white;
+    }
+
+    div.port4{
+        margin-left: 300px;
+        margin-top: 200;
+        width: 250px;
+        height: 180;
+        position: absolute;
+        text-align: center;
+        color: white;
+  
 }
 
 div.InsideBox{
