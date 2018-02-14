@@ -132,12 +132,13 @@ div.port1{
     text-align: center;
     color: white;
     float: left;
-    margin-left: 10;
+    margin-left: 50;
+    margin-top:15;
 }
 
 div.port2{
-    margin-left: 300px;
-    margin-top:00;
+    margin-left: 350px;
+    margin-top:15;
     width: 250px;
     height: 180;
     position: absolute;
@@ -146,8 +147,8 @@ div.port2{
 }
 
     div.port3{
-        margin-left: 10px;
-        margin-top: 200;
+        margin-left: 50px;
+        margin-top: 220;
         width: 250px;
         height: 180;
         position: absolute;
@@ -156,8 +157,8 @@ div.port2{
     }
 
     div.port4{
-        margin-left: 300px;
-        margin-top: 200;
+        margin-left: 350px;
+        margin-top: 220;
         width: 250px;
         height: 180;
         position: absolute;
@@ -172,9 +173,9 @@ div.InsideBox{
     border: 0;
     background-color: #4aaaa5;
     position: absolute;
-    top: 60%;
+    top: 66%;
     font-size: 25;
-    text
+    
     
 }
 
