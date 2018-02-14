@@ -4,8 +4,6 @@ form {
     margin-left: 10;
 }
 
-
-
 h1
 {
     background-color:  #4aaaa5;
@@ -50,6 +48,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
 body {
     background-color: beige;
 	line-height: 1;
@@ -123,8 +122,6 @@ div.container3 {
     transform: translate(-50%, -50%);
 }
 
-
-
 div.port1{
     width: 250px;
     height: 180;
@@ -164,7 +161,6 @@ div.port2{
         position: absolute;
         text-align: center;
         color: white;
-  
 }
 
 div.InsideBox{
@@ -175,8 +171,6 @@ div.InsideBox{
     position: absolute;
     top: 66%;
     font-size: 25;
-    
-    
 }
 
 div.header {
@@ -264,9 +258,9 @@ div.boxContact {
     }
     
     a:hover {
-        text-decoration: underline;
+        text-decoration: none;
     }
     
     a:active {
-        text-decoration: underline;
+        text-decoration: none;
     }
